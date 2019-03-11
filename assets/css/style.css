@@ -1,3 +1,10 @@
-body {
-    background-image: "assets/css/qbkls.png"
+header {
+    background-color: white;
+    width: 100%;
+}
+
+header div {
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
 }
