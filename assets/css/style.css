@@ -1,0 +1,28 @@
+body {
+
+
+}
+
+h1 {
+    width: 200px;
+    height: 50%;
+    background-color: #4aaaa5;
+    font-family: "Helvetica", sans-serif;
+    font-weight: lighter;
+    text-align: center;
+
+}
+
+h2 {
+
+}
+
+.link {
+    float: right;
+
+}
+
+#profilepic {
+    height: 275px;
+    width: 225px;
+}
