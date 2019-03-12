@@ -62,10 +62,25 @@ a:hover {
 section {
     background-color: white; 
     width: 960px;
-    height: 350px;
+    height: 450px;
     padding: 20px auto;
     margin: 40px auto;
+    border: 2px solid #dddddd;
     box-shadow: 5px 10px #cccccc;
+}
+
+section div {
+    background-color: white;
+    width: 900px;
+    height: 40px;
+    border-bottom: 2px solid #dddddd;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+section h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #4aaaa5;
 }
 
 #profile-image {
@@ -83,7 +98,7 @@ p {
     text-align: left;
     line-height: 150%;
     margin: 35px;
-    border-top: 40px solid white;
+    border-top: 20px solid white;
    
     
     
