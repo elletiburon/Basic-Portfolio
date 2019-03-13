@@ -100,8 +100,11 @@ section h2 {
 #Project1 {
     position: absolute;
     width: 200px;
+    height: 40px;
+    margin: 0 auto;
     background-color: #4aaaa5;
     font-family: 'Roboto Condensed', sans-serif;
     text-align: center; 
     z-index: 2;
+    
 }
