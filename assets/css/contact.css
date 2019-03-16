@@ -14,10 +14,6 @@ body {
     padding-bottom: 2.5rem;
 }
 
-html {
-    background: url(Basic-Portfolio/assets/images/seigaiha.png) no-repeat center fixed;
-    background-size: cover;
-}
 
 header {
     background-color: white;
