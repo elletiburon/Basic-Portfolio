@@ -160,13 +160,11 @@ section h2 {
     flex-flow: column wrap;
     justify-content: flex-start;
     align-items: flex-start;
-
 }
 
 footer {
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
-   
     bottom: 0;
     width: 100%;
     height: 2.5rem;
